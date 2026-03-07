@@ -1,0 +1,21 @@
+--- ATMOSPHERE AND WRITING STYLE ---
+The torchlight sputtered, casting long, dancing shadows against the damp stone walls of the crypt. The air smelled of ozone and ancient decay. He gripped the hilt of his broadsword, the leather wrapping worn smooth by years of sweat and blood. In this kingdom, steel was the only law, and mercy was a currency long since devalued by the ravages of the Shadow King.
+
+The beast emerged from the gloom, its scales shimmering like spilled oil. It did not roar; it hissed, a sound like steam escaping a fissure, promising a death that would be neither quick nor clean. The warrior planted his feet, feeling the cold flagstones through his boots. Fear was a distant memory, replaced by the cold, hard clarity of survival.
+
+The forest was not silent. It whispered. The trees, twisted into agonizing shapes by the magical fallout, seemed to lean in, their branches like skeletal fingers grasping for warmth. The fog clung to the ground, swirling around ankles, obscuring the treacherous roots that waited to snare the unwary traveler.
+
+--- COMBAT RULES AND MECHANICS ---
+When a character attempts to strike an enemy, they must leverage their Strength or Agility. A heavy weapon requires momentum; a light weapon requires precision. 
+
+Critical Success: If the strike finds a weak point in the armor, the damage is doubled, and the enemy is staggered, losing their next turn.
+Critical Failure: The weapon may jam, break, or the wielder may lose their footing, leaving them open to a counter-attack.
+
+Stealth: Moving silently requires checking the environment. Metal armor imposes a disadvantage. Shadows provide cover, but light sources reveal position instantly.
+
+Magic usage draws upon the caster's stamina. Casting a spell of Fire or Lightning drains physical energy. If a caster is exhausted, their spells may sizzle out or backfire, causing internal damage.
+
+--- WORLD LORE: THE SHATTERED LANDS ---
+The Shattered Lands were once a unified empire, now broken into warring city-states. The capital, Oakhaven, is a sanctuary for mages, while the Iron Fortress in the north prohibits all magic under penalty of death.
+The currency is "Shards"—glowing fragments of the fallen moon.
+Travel at night is forbidden by common sense; the Night-Gaunts rule the darkness, and they cannot be harmed by mortal steel, only by fire or silver.

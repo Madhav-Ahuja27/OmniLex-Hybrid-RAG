@@ -1,0 +1,16 @@
+# Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Data & Images (Optional: un-comment if you don't want to upload your test data)
+# data/
+# *.jpg
+# *.png
+
+# OS Files
+.DS_Store

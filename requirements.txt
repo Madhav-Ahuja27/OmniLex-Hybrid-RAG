@@ -1,0 +1,30 @@
+streamlit
+faiss-cpu
+sentence-transformers
+rank_bm25
+pillow
+numpy
+google-generativeai
+requests
+
+
+# # Web & UI
+# streamlit>=1.32.0
+
+# # LLM Providers
+# groq>=0.4.2
+# google-generativeai>=0.4.0
+# requests>=2.31.0
+
+# # Retrieval & Vector Database
+# faiss-cpu>=1.8.0  # Use faiss-gpu if your machine has a dedicated Nvidia GPU
+# sentence-transformers>=2.5.0
+# rank_bm25>=0.2.2
+
+# # Data Processing
+# numpy>=1.26.0
+# pillow>=10.2.0
+
+# # Evaluation (Optional)
+# matplotlib>=3.8.0
+# pandas>=2.2.0
